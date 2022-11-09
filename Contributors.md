@@ -4869,3 +4869,4 @@ first contributions - hanyang univ.
 - [Ibrahim Khalil](https://github.com/rahatibrahim)
 - [Karthik Raju](https://github.com/KarthikRaju391)
 - [Marcelle Pernet 🍰](https://github.com/muacelle)
+- [Pittularo](https://github.com/Pittularo)
