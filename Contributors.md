@@ -1,5 +1,6 @@
 # Contributors
 <!-- prettier-ignore-start -->
+- [Josh Woolbright] (https://github.com/Jtwoolbright)
 - [Walid1Dev](https://github.com/Walid1Dev)
 - [Test](https://github.com)
 - [Aki](https://github.com/akt00)
@@ -510,6 +511,7 @@ main
 - [YogatBear](https://github.com/YogatBear)
 - [Smart-Peach](https://github.com/Smart-Peach)
 - [Siddhant](https://github.com/SiddJ01)
+- [Erika Delfino](https://github.com/edelfino11)
 - [JSalinas](https://github.com/javier-salinas)
 - [Davies Jeffrey](https://github.com/djokhar05)
 - [Hailey Steineke](https://github.com/hdsteineke)
@@ -3143,6 +3145,7 @@ Fiyinfoluwa Afolayan
 - [FFuss](https://github.com/FFuss)
 - [Matheus da Fonseca Dummer](https://github.com/matheusdmm)
 - [Diego Herrera](https://github.com/diegoherrer4)
+- [Raphaël Colin](https://github.com/Raphalex46)
 - [Abdulkareem Ojerinde](https://github.com/abdulkareemoj)
 - [Ioan Adafinei](https://github.com/IoanRO)
 - [Rajeev Hansda](https://github.com/rajeevrhansda)
